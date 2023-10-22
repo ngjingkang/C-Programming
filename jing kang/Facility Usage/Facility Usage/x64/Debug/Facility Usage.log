@@ -1,0 +1,4 @@
+﻿  FU.c
+C:\Users\ngjin\Desktop\assignmentProgrammingSem3-main\jing kang\Facility Usage\Facility Usage\FU.c(34,3): warning C4013: 'gets' undefined; assuming extern returning int
+C:\Users\ngjin\Desktop\assignmentProgrammingSem3-main\jing kang\Facility Usage\Facility Usage\FU.c(24,42): warning C4101: 'Discount': unreferenced local variable
+  Facility Usage.vcxproj -> C:\Users\ngjin\Desktop\assignmentProgrammingSem3-main\jing kang\Facility Usage\x64\Debug\Facility Usage.exe

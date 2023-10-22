@@ -1,0 +1,15 @@
+﻿  main program.c
+C:\Users\ngjin\Desktop\assignmentProgrammingSem3-main\yu shun\main program\Project1\main program.c(289,9): warning C4013: 'gets' undefined; assuming extern returning int
+C:\Users\ngjin\Desktop\assignmentProgrammingSem3-main\yu shun\main program\Project1\main program.c(381,11): warning C4101: 'fpStaff': unreferenced local variable
+C:\Users\ngjin\Desktop\assignmentProgrammingSem3-main\yu shun\main program\Project1\main program.c(1449,10): warning C4101: 'opt': unreferenced local variable
+C:\Users\ngjin\Desktop\assignmentProgrammingSem3-main\yu shun\main program\Project1\main program.c(2023,52): warning C4474: 'printf' : too many arguments passed for format string
+C:\Users\ngjin\Desktop\assignmentProgrammingSem3-main\yu shun\main program\Project1\main program.c(2023,52): message : placeholders and their parameters expect 0 variadic arguments, but 1 were provided
+C:\Users\ngjin\Desktop\assignmentProgrammingSem3-main\yu shun\main program\Project1\main program.c(1957,11): warning C4101: 'fpFacility': unreferenced local variable
+C:\Users\ngjin\Desktop\assignmentProgrammingSem3-main\yu shun\main program\Project1\main program.c(2213,10): warning C4101: 'optiom': unreferenced local variable
+C:\Users\ngjin\Desktop\assignmentProgrammingSem3-main\yu shun\main program\Project1\main program.c(2275,9): warning C4101: 'selectionRoom': unreferenced local variable
+C:\Users\ngjin\Desktop\assignmentProgrammingSem3-main\yu shun\main program\Project1\main program.c(2980,10): warning C4101: 'option': unreferenced local variable
+C:\Users\ngjin\Desktop\assignmentProgrammingSem3-main\yu shun\main program\Project1\main program.c(3094,11): warning C4101: 'fpbooking': unreferenced local variable
+C:\Users\ngjin\Desktop\assignmentProgrammingSem3-main\yu shun\main program\Project1\main program.c(3481,10): warning C4101: 'search': unreferenced local variable
+C:\Users\ngjin\Desktop\assignmentProgrammingSem3-main\yu shun\main program\Project1\main program.c(3729,11): warning C4101: 'fpMember': unreferenced local variable
+C:\Users\ngjin\Desktop\assignmentProgrammingSem3-main\yu shun\main program\Project1\main program.c(4047,10): warning C4101: 'option': unreferenced local variable
+  Project1.vcxproj -> C:\Users\ngjin\Desktop\assignmentProgrammingSem3-main\yu shun\main program\x64\Debug\Project1.exe

@@ -1,0 +1,5 @@
+﻿  staffinfo.c
+C:\Users\ngjin\Desktop\assignmentProgrammingSem3-main\angel\staffinfo\staffinfo\staffinfo.c(123,3): warning C4013: 'gets' undefined; assuming extern returning int
+C:\Users\ngjin\Desktop\assignmentProgrammingSem3-main\angel\staffinfo\staffinfo\staffinfo.c(185,8): warning C4013: 'strcmp' undefined; assuming extern returning int
+C:\Users\ngjin\Desktop\assignmentProgrammingSem3-main\angel\staffinfo\staffinfo\staffinfo.c(218,8): warning C4101: 'fpStaff': unreferenced local variable
+  staffinfo.vcxproj -> C:\Users\ngjin\Desktop\assignmentProgrammingSem3-main\angel\staffinfo\x64\Debug\staffinfo.exe

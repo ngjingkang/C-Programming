@@ -1,0 +1,14 @@
+KA1|Karaoke|Karaoke Room 1|Main Block|10|0125566770
+SP1|Swimming|Swimming Pool 1|Block D|25|0136049492
+BB3|Basketball|Basketball Court 3|Block E|30|0112345687
+BC7|Badminton|Badminton Court 7|Block A|8|0125279900
+TC2|Tennis|Tennis Court 2|Block J|8|0173243211
+KA5|Karaoke|Karaoke Room 5|Main Block|10|0125566770
+PP4|Ping Pong|Ping Pong Room 4|Block A|8|0122259890
+KA2|Karaoke|Karaoke Room 2|Main Block|10|0125566770
+BB1|Basketball|Basketball Court 1|BLock E|30|0112345687
+SP5|Swimming|Swimming Pool 5|Block D|25|0136049492
+KA7|Karaoke|Karaoke Room 7|Main Venue|10|0125566770
+SP3|Swimming|Swimming Pool 3|Block C|20|0136049492
+PP2|Ping Pong|Ping Pong Room 2|Block A|8|0122259890
+BC4|Badminton|Badminton Court 4|Block B|8|012527990
